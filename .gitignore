@@ -1,0 +1,10 @@
+out
+node_modules
+.vscode-test/
+*.vsix
+*.log
+dist
+bun.lockb
+package-lock.json
+
+.prompts
